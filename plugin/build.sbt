@@ -18,6 +18,6 @@ scalacOptions += "-optimise"
 // any of these work, although 2.9.1 performs the best
 //scalaVersion := "2.8.1
 //scalaVersion := "2.9.0-1"
-scalaVersion := "2.9.1"
+scalaVersion := "2.9.2"
 
 //crossScalaVersions := List("2.8.1", "2.9.0-1", "2.9.1")
